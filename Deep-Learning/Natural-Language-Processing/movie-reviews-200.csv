@@ -1,0 +1,225 @@
+text,label
+"I love this movie, it’s fantastic!",1
+"Absolutely wonderful acting and plot.",1
+"I hated the ending, it was so bad.",0
+"Terrible movie. Waste of time.",0
+"The story was okay, but acting was great.",1
+"Not good, really boring.",0
+"What an amazing experience, I’d watch it again!",1
+"The characters were so relatable and well-written.",1
+"It just dragged on and on… I almost fell asleep.",0
+"One of the best films I've seen in a while.",1
+"The plot made no sense at all, total disappointment.",0
+"Super fun and entertaining from start to finish!",1
+"I didn’t enjoy it, the pacing was all over the place.",0
+"Brilliant direction and stunning visuals.",1
+"Lacked emotion and felt really flat overall.",0
+"A solid film with a heartwarming message.",1
+"Incredible soundtrack and beautiful cinematography.",1
+"Couldn’t wait for it to end. Really dull.",0
+"Loved every second of it!",1
+"The writing was weak and uninspired.",0
+"Outstanding performance by the lead actor.",1
+"Nothing special. Very forgettable.",0
+"Fresh, smart, and surprisingly emotional.",1
+"Too long and poorly edited.",0
+"Exceptional storytelling and great cast.",1
+"Boring dialogues and predictable plot.",0
+"An absolute masterpiece, truly inspiring!",1
+"The movie failed to keep my interest.",0
+"Brilliant script and fantastic acting.",1
+"I was bored throughout the whole film.",0
+"A touching story that moved me deeply.",1
+"Poor direction ruined what could’ve been great.",0
+"Loved the soundtrack and visuals.",1
+"The plot was confusing and unoriginal.",0
+"Great performances by the entire cast.",1
+"I regret watching this movie.",0
+"Engaging from start to finish!",1
+"The dialogue was cheesy and unrealistic.",0
+"Fantastic chemistry between the leads.",1
+"The pacing was too slow for my taste.",0
+"A heartwarming and beautiful movie.",1
+"Terrible editing made it hard to follow.",0
+"One of the best movies this year.",1
+"Not worth the hype at all.",0
+"A fun watch with lots of laughs.",1
+"Disappointing ending to an otherwise good film.",0
+"Incredible visuals but weak story.",0
+"The characters felt shallow and boring.",0
+"A cinematic gem that I’d watch again.",1
+"The movie was too predictable.",0
+"Enjoyed every moment of it.",1
+"Lacked originality and felt stale.",0
+"Superb direction and a gripping plot.",1
+"I fell asleep halfway through.",0
+"A compelling and emotional journey.",1
+"The acting was mediocre at best.",0
+"An inspiring tale beautifully told.",1
+"Not my cup of tea.",0
+"Well-written script and great humor.",1
+"The special effects were distracting.",0
+"An unforgettable cinematic experience.",1
+"The story didn’t make any sense.",0
+"A charming and delightful movie.",1
+"I wouldn’t recommend it.",0
+"Powerful performances and excellent soundtrack.",1
+"It dragged on for too long.",0
+"A visually stunning and heartfelt film.",1
+"Too many clichés and tired tropes.",0
+"Captivating story and brilliant cast.",1
+"I was unimpressed by the plot.",0
+"Heartfelt and beautifully acted.",1
+"The script was poorly executed.",0
+"A joy to watch from beginning to end.",1
+"The film lacked depth and emotion.",0
+"Simply amazing in every way.",1
+"The movie failed to deliver.",0
+"Absolutely loved the plot twists!",1
+"The acting was lackluster and boring.",0
+"An emotional rollercoaster from start to finish.",1
+"Script was full of holes and inconsistencies.",0
+"Beautifully crafted story and great performances.",1
+"The movie was too slow and dull.",0
+"An unforgettable cinematic masterpiece.",1
+"Poor character development throughout.",0
+"Engrossing and powerful storytelling.",1
+"The film felt rushed and incomplete.",0
+"Exceptional cast and breathtaking visuals.",1
+"I couldn't connect with any of the characters.",0
+"A perfect blend of humor and drama.",1
+"Dialogues were cringe-worthy and forced.",0
+"Stunning cinematography and heartfelt moments.",1
+"The plot was cliché and predictable.",0
+"An inspiring and uplifting film.",1
+"Too many plot holes to ignore.",0
+"A delightful surprise with amazing acting.",1
+"Disappointing and forgettable experience.",0
+"Well-directed with a captivating narrative.",1
+"The pacing made it hard to stay interested.",0
+"A charming story with great performances.",1
+"Script felt unoriginal and dull.",0
+"Powerful and moving from beginning to end.",1
+"Not engaging and way too long.",0
+"Brilliantly written and beautifully acted.",1
+"Felt like a waste of time.",0
+"A must-watch for all movie lovers.",1
+"The movie lacked depth and soul.",0
+"Heartwarming and beautifully shot.",1
+"Failed to live up to the expectations.",0
+"An exhilarating and fresh take on the genre.",1
+"Characters were flat and unconvincing.",0
+"Masterfully crafted with an amazing soundtrack.",1
+"The storyline was confusing and boring.",0
+"An emotional journey that stays with you.",1
+"Predictable plot and bad acting.",0
+"Outstanding direction and great chemistry.",1
+"Not worth the ticket price.",0
+"Beautifully told with amazing performances.",1
+"Fell flat in many parts.",0
+"A fascinating story told perfectly.",1
+"Script was weak and uninspired.",0
+"Captivating and wonderfully acted.",1
+"Too clichéd and poorly executed.",0
+"One of the best films I've watched recently.",1
+"Terrible from start to finish.",0
+"Absolutely fantastic! Would watch again.",1
+"The storyline was dull and uninspiring.",0
+"Brilliant acting kept me hooked throughout.",1
+"Felt like a drag from beginning to end.",0
+"A beautiful film with a meaningful message.",1
+"The movie was full of clichés and boring scenes.",0
+"Superb direction and excellent cast.",1
+"I didn’t care about any of the characters.",0
+"An emotional and heartfelt masterpiece.",1
+"Too predictable and poorly paced.",0
+"Great soundtrack and amazing visuals.",1
+"Script was confusing and badly written.",0
+"An inspiring story that touched my heart.",1
+"Not entertaining and completely forgettable.",0
+"Perfect mix of humor and drama.",1
+"The plot was weak and unoriginal.",0
+"Captivating performances and stunning shots.",1
+"Left me disappointed and bored.",0
+"An unforgettable cinematic experience.",1
+"Too many loose ends and plot holes.",0
+"Wonderful characters and compelling story.",1
+"The film lacked focus and energy.",0
+"A truly remarkable and inspiring film.",1
+"Poor dialogue and bad pacing ruined it.",0
+"Engaging and beautifully acted.",1
+"The ending was confusing and unsatisfying.",0
+"A fantastic journey from start to finish.",1
+"Felt like a waste of time.",0
+"Outstanding storytelling and great chemistry.",1
+"Nothing new, very cliché and boring.",0
+"A heartwarming tale with great performances.",1
+"The movie was slow and uneventful.",0
+"Brilliantly written and visually stunning.",1
+"The characters were flat and uninteresting.",0
+"An emotional ride with powerful acting.",1
+"Plot was predictable and dull.",0
+"Excellent direction and captivating story.",1
+"I struggled to stay awake.",0
+"Fresh and exciting with great humor.",1
+"Disappointing and forgettable.",0
+"A masterpiece with beautiful cinematography.",1
+"Too many unnecessary scenes.",0
+"One of the best films I've seen recently.",1
+"Badly scripted and poorly acted.",0
+"Engrossing story with amazing performances.",1
+"Felt like a low-budget film.",0
+"Heartfelt and beautifully crafted.",1
+"The pacing was off and boring.",0
+"Simply amazing in every way.",1
+"The movie didn't live up to the hype.",0
+"Absolutely thrilling from beginning to end.",1
+"The story was weak and unengaging.",0
+"Fantastic performances and great chemistry.",1
+"I was bored the entire time.",0
+"A beautifully told tale with heartfelt moments.",1
+"Terrible script and poor execution.",0
+"Captivating and well-paced throughout.",1
+"Characters lacked depth and motivation.",0
+"An inspiring and uplifting film experience.",1
+"Plot holes everywhere made it confusing.",0
+"Excellent direction and superb acting.",1
+"The movie was too slow and boring.",0
+"Heartfelt story that really resonated.",1
+"Disappointing and forgettable plot.",0
+"A masterpiece with stunning visuals.",1
+"The pacing was uneven and dull.",0
+"Engaging script with emotional depth.",1
+"Dialogue felt unnatural and forced.",0
+"One of the most enjoyable movies I've seen.",1
+"Not my type of film, very boring.",0
+"Beautifully shot and wonderfully acted.",1
+"Characters were bland and uninteresting.",0
+"An emotional rollercoaster with great acting.",1
+"Too many clichés and predictable twists.",0
+"Brilliantly crafted story and direction.",1
+"The movie failed to keep me interested.",0
+"Powerful performances and strong narrative.",1
+"The plot was weak and poorly developed.",0
+"A charming film with a lot of heart.",1
+"The story was confusing and slow.",0
+"Captivating from start to finish.",1
+"Lacked originality and excitement.",0
+"An unforgettable cinematic journey.",1
+"Too long and unnecessarily complicated.",0
+"Wonderful performances and beautiful story.",1
+"Not worth the time or money.",0
+"Fantastic film with a great soundtrack.",1
+"Disappointing and predictable.",0
+"Heartwarming and beautifully made.",1
+"The movie didn’t live up to expectations.",0
+"Superb acting and compelling plot.",1
+"The storyline was weak and uninteresting.",0
+"Engrossing and emotionally powerful.",1
+"Felt like a tired rehash of old ideas.",0
+"A joy to watch from beginning to end.",1
+"The film was dull and forgettable.",0
+"Powerful and moving in every scene.",1
+"Poorly written and badly acted.",0
+"An excellent film with strong performances.",1
+"Not engaging or entertaining at all.",0
