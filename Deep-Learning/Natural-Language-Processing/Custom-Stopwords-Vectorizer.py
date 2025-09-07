@@ -46,7 +46,6 @@ def spacy_tokenizer(text: str) -> List[str]:
         for token in doc
         if (
             token.is_alpha and
-            not token.is_stop and
             token.text.lower() not in custom_stopwords_A and
             not token.like_num and
             not token.is_punct and
@@ -81,3 +80,4 @@ if __name__ == "__main__":
     X2 = vectorizer_option_2.fit_transform(sample_texts)
     print("Features:", vectorizer_option_2.get_feature_names_out())
     print("Shape:", X2.shape)
+
