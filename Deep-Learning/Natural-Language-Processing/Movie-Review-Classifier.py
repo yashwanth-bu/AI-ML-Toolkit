@@ -42,7 +42,6 @@ def spacy_tokenizer(text: str) -> List[str]:
         for token in doc
         if (
             token.is_alpha and  # Keep only alphabetic tokens
-            not token.is_stop and  # Remove stopwords
             token.text.lower() not in stopwords_list and  # Remove custom stopwords
             not token.like_num and  # Exclude numbers
             not token.is_punct and  # Exclude punctuation
@@ -56,8 +55,8 @@ df = pd.read_csv('movie-reviews-200.csv')
 
 # Load additional stopwords
 revised_stopwords_list = list(get_revised_stopwords())
-critical_sentiment_words = list(load_critical_words('Small-Sentiment-Words.txt'))
-stopwords_list = sorted(set(revised_stopwords_list + critical_sentiment_words + spacy_stopwords))
+critical_sentiment_words = load_critical_words('Small-Sentiment-Words.txt')
+stopwords_list = sorted(set(spacy_stopwords + revised_stopwords_list) - critical_sentiment_words)
 
 # Prepare data for training and testing
 texts = df['text']
@@ -110,4 +109,5 @@ tfd_pred = tfd_model.predict(tfd_test)
 
 # Evaluate the model
 print("TDF Accuracy:", accuracy_score(y_test, tfd_pred))
+
 print("TDF Classification Report:\n", classification_report(y_test, tfd_pred))
